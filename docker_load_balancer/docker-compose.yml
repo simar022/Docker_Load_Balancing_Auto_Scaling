@@ -1,0 +1,83 @@
+services:
+  website1:
+    image: nginx:alpine
+    volumes:
+      - ./website1:/usr/share/nginx/html:ro
+    networks:
+      - lb_network
+  website2:
+    image: nginx:alpine
+    volumes:
+      - ./website2:/usr/share/nginx/html:ro
+    networks:
+      - lb_network
+  website3:
+    image: nginx:alpine
+    volumes:
+      - ./website3:/usr/share/nginx/html:ro
+    networks:
+      - lb_network
+
+  lb:
+    image: nginx:alpine
+    container_name: nginx-lb
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx-lb/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./logs:/var/log/nginx
+    networks:
+      - lb_network
+    depends_on:
+      - website1
+      - website2
+      - website3
+
+  glances:
+    image: nicolargo/glances:latest-full
+    container_name: glances
+    pid: host
+    volumes: ["/var/run/docker.sock:/var/run/docker.sock:ro"]
+    environment: ["GLANCES_OPT=-w"]
+    networks:
+      - lb_network
+    
+  nginx-exporter:
+    image: nginx/nginx-prometheus-exporter:latest
+    container_name: nginx-exporter
+    networks:
+      - lb_network
+    command:
+      - -nginx.scrape-uri=http://nginx-lb/nginx_status
+    ports:
+      - "9113:9113"
+    depends_on:
+      - lb
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    networks:
+      - lb_network
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    networks:
+      - lb_network
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_SERVER_DOMAIN=localhost 
+      - GF_SERVER_ROOT_URL=http://localhost/grafana/
+      - GF_SERVER_SERVE_FROM_SUB_PATH=true
+      
+networks:
+  lb_network:
+    driver: bridge
+    enable_ipv6: false

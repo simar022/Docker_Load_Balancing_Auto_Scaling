@@ -1,0 +1,1599 @@
+ Container docker_load_balancer-website2-1 Running 
+ Container grafana Running 
+ Container docker_load_balancer-website2-4 Creating 
+ Container prometheus Running 
+ Container glances Running 
+ Container docker_load_balancer-website3-1 Running 
+ Container docker_load_balancer-website2-2 Creating 
+ Container docker_load_balancer-website3-4 Creating 
+ Container docker_load_balancer-website3-2 Creating 
+ Container docker_load_balancer-website2-3 Creating 
+ Container docker_load_balancer-website1-1 Running 
+ Container docker_load_balancer-website1-4 Creating 
+ Container docker_load_balancer-website3-3 Creating 
+ Container docker_load_balancer-website1-2 Creating 
+ Container docker_load_balancer-website1-3 Creating 
+ Container docker_load_balancer-website2-3 Created 
+ Container docker_load_balancer-website1-4 Created 
+ Container docker_load_balancer-website2-4 Created 
+ Container docker_load_balancer-website3-4 Created 
+ Container docker_load_balancer-website3-3 Created 
+ Container docker_load_balancer-website1-2 Created 
+ Container docker_load_balancer-website3-2 Created 
+ Container docker_load_balancer-website1-3 Created 
+ Container docker_load_balancer-website2-2 Created 
+ Container nginx-lb Running 
+ Container nginx-exporter Running 
+ Container docker_load_balancer-website3-4 Starting 
+ Container docker_load_balancer-website2-2 Starting 
+ Container docker_load_balancer-website1-3 Starting 
+ Container docker_load_balancer-website3-4 Started 
+ Container docker_load_balancer-website3-3 Starting 
+ Container docker_load_balancer-website1-3 Started 
+ Container docker_load_balancer-website2-2 Started 
+ Container docker_load_balancer-website2-4 Starting 
+ Container docker_load_balancer-website1-2 Starting 
+ Container docker_load_balancer-website3-3 Started 
+ Container docker_load_balancer-website3-2 Starting 
+ Container docker_load_balancer-website1-2 Started 
+ Container docker_load_balancer-website1-4 Starting 
+ Container docker_load_balancer-website2-4 Started 
+ Container docker_load_balancer-website2-3 Starting 
+ Container docker_load_balancer-website3-2 Started 
+ Container docker_load_balancer-website1-4 Started 
+ Container docker_load_balancer-website2-3 Started 
+ Container docker_load_balancer-website3-1 Running 
+ Container docker_load_balancer-website3-4 Stopping 
+ Container prometheus Running 
+ Container docker_load_balancer-website3-3 Stopping 
+ Container grafana Running 
+ Container docker_load_balancer-website3-2 Stopping 
+ Container docker_load_balancer-website2-1 Running 
+ Container docker_load_balancer-website1-1 Running 
+ Container docker_load_balancer-website2-2 Stopping 
+ Container docker_load_balancer-website1-4 Stopping 
+ Container docker_load_balancer-website2-4 Stopping 
+ Container docker_load_balancer-website2-3 Stopping 
+ Container glances Running 
+ Container docker_load_balancer-website1-2 Stopping 
+ Container docker_load_balancer-website1-3 Stopping 
+ Container docker_load_balancer-website2-4 Stopped 
+ Container docker_load_balancer-website2-4 Removing 
+ Container docker_load_balancer-website3-4 Stopped 
+ Container docker_load_balancer-website3-4 Removing 
+ Container docker_load_balancer-website2-4 Removed 
+ Container docker_load_balancer-website3-4 Removed 
+ Container docker_load_balancer-website3-2 Stopped 
+ Container docker_load_balancer-website3-2 Removing 
+ Container docker_load_balancer-website1-4 Stopped 
+ Container docker_load_balancer-website1-4 Removing 
+ Container docker_load_balancer-website3-3 Stopped 
+ Container docker_load_balancer-website3-3 Removing 
+ Container docker_load_balancer-website3-2 Removed 
+ Container docker_load_balancer-website1-2 Stopped 
+ Container docker_load_balancer-website1-2 Removing 
+ Container docker_load_balancer-website1-3 Stopped 
+ Container docker_load_balancer-website1-3 Removing 
+ Container docker_load_balancer-website3-3 Removed 
+ Container docker_load_balancer-website1-4 Removed 
+ Container docker_load_balancer-website2-2 Stopped 
+ Container docker_load_balancer-website2-2 Removing 
+ Container docker_load_balancer-website2-3 Stopped 
+ Container docker_load_balancer-website2-3 Removing 
+ Container docker_load_balancer-website1-3 Removed 
+ Container docker_load_balancer-website1-2 Removed 
+ Container docker_load_balancer-website2-2 Removed 
+ Container docker_load_balancer-website2-3 Removed 
+ Container nginx-lb Running 
+ Container nginx-exporter Running 
+ Container glances Running 
+ Container prometheus Running 
+ Container docker_load_balancer-website1-1 Running 
+ Container docker_load_balancer-website2-1 Running 
+ Container docker_load_balancer-website1-4 Creating 
+ Container docker_load_balancer-website1-2 Creating 
+ Container docker_load_balancer-website2-4 Creating 
+ Container grafana Running 
+ Container docker_load_balancer-website1-3 Creating 
+ Container docker_load_balancer-website3-1 Running 
+ Container docker_load_balancer-website3-4 Creating 
+ Container docker_load_balancer-website2-3 Creating 
+ Container docker_load_balancer-website3-2 Creating 
+ Container docker_load_balancer-website3-3 Creating 
+ Container docker_load_balancer-website2-2 Creating 
+ Container docker_load_balancer-website2-4 Created 
+ Container docker_load_balancer-website3-4 Created 
+ Container docker_load_balancer-website1-4 Created 
+ Container docker_load_balancer-website1-2 Created 
+ Container docker_load_balancer-website1-3 Created 
+ Container docker_load_balancer-website3-3 Created 
+ Container docker_load_balancer-website2-3 Created 
+ Container docker_load_balancer-website2-2 Created 
+ Container docker_load_balancer-website3-2 Created 
+ Container nginx-lb Running 
+ Container nginx-exporter Running 
+ Container docker_load_balancer-website1-2 Starting 
+ Container docker_load_balancer-website2-2 Starting 
+ Container docker_load_balancer-website3-2 Starting 
+ Container docker_load_balancer-website3-2 Started 
+ Container docker_load_balancer-website3-3 Starting 
+ Container docker_load_balancer-website2-2 Started 
+ Container docker_load_balancer-website2-3 Starting 
+ Container docker_load_balancer-website1-2 Started 
+ Container docker_load_balancer-website1-3 Starting 
+ Container docker_load_balancer-website3-3 Started 
+ Container docker_load_balancer-website3-4 Starting 
+ Container docker_load_balancer-website1-3 Started 
+ Container docker_load_balancer-website1-4 Starting 
+ Container docker_load_balancer-website2-3 Started 
+ Container docker_load_balancer-website2-4 Starting 
+ Container docker_load_balancer-website3-4 Started 
+ Container docker_load_balancer-website1-4 Started 
+ Container docker_load_balancer-website2-4 Started 
+ Container docker_load_balancer-website1-1 Running 
+ Container grafana Running 
+ Container docker_load_balancer-website2-1 Running 
+ Container docker_load_balancer-website1-4 Stopping 
+ Container glances Running 
+ Container prometheus Running 
+ Container docker_load_balancer-website2-4 Stopping 
+ Container docker_load_balancer-website2-2 Stopping 
+ Container docker_load_balancer-website2-3 Stopping 
+ Container docker_load_balancer-website3-1 Running 
+ Container docker_load_balancer-website1-2 Stopping 
+ Container docker_load_balancer-website3-4 Stopping 
+ Container docker_load_balancer-website1-3 Stopping 
+ Container docker_load_balancer-website3-3 Stopping 
+ Container docker_load_balancer-website3-2 Stopping 
+ Container docker_load_balancer-website1-2 Stopped 
+ Container docker_load_balancer-website1-2 Removing 
+ Container docker_load_balancer-website1-2 Removed 
+ Container docker_load_balancer-website1-4 Stopped 
+ Container docker_load_balancer-website1-4 Removing 
+ Container docker_load_balancer-website3-2 Stopped 
+ Container docker_load_balancer-website3-2 Removing 
+ Container docker_load_balancer-website2-3 Stopped 
+ Container docker_load_balancer-website2-3 Removing 
+ Container docker_load_balancer-website1-4 Removed 
+ Container docker_load_balancer-website3-2 Removed 
+ Container docker_load_balancer-website1-3 Stopped 
+ Container docker_load_balancer-website1-3 Removing 
+ Container docker_load_balancer-website3-4 Stopped 
+ Container docker_load_balancer-website3-4 Removing 
+ Container docker_load_balancer-website2-3 Removed 
+ Container docker_load_balancer-website2-2 Stopped 
+ Container docker_load_balancer-website2-2 Removing 
+ Container docker_load_balancer-website3-3 Stopped 
+ Container docker_load_balancer-website3-3 Removing 
+ Container docker_load_balancer-website1-3 Removed 
+ Container docker_load_balancer-website3-4 Removed 
+ Container docker_load_balancer-website2-4 Stopped 
+ Container docker_load_balancer-website2-4 Removing 
+ Container docker_load_balancer-website2-2 Removed 
+ Container docker_load_balancer-website2-4 Removed 
+ Container docker_load_balancer-website3-3 Removed 
+ Container nginx-lb Running 
+ Container nginx-exporter Running 
+--- Multi-Metric Autoscaler Started ---
+Stats -> RPS: 0.0 | CPU: 0.0% | RAM: 63.7% | Replicas: 1
+Stats -> RPS: 8.0 | CPU: 15.9% | RAM: 63.7% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 12.7% | RAM: 64.0% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 8.8% | RAM: 63.7% | Replicas: 1
+Stats -> RPS: 11.5 | CPU: 13.0% | RAM: 64.1% | Replicas: 1
+Stats -> RPS: 8.0 | CPU: 7.5% | RAM: 64.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 13.9% | RAM: 64.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 13.1% | RAM: 64.3% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 11.9% | RAM: 63.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.0% | RAM: 64.0% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 8.6% | RAM: 63.8% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.6% | RAM: 64.0% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.7% | RAM: 63.9% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 15.3% | RAM: 64.1% | Replicas: 1
+Stats -> RPS: 7.5 | CPU: 11.6% | RAM: 64.0% | Replicas: 1
+Stats -> RPS: 8.0 | CPU: 15.0% | RAM: 64.4% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 10.2% | RAM: 64.1% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.0% | RAM: 64.4% | Replicas: 1
+Stats -> RPS: 29.0 | CPU: 18.0% | RAM: 64.8% | Replicas: 1
+Stats -> RPS: 626.5 | CPU: 41.9% | RAM: 64.6% | Replicas: 1
+!!! High Load Detected (RPS/CPU/RAM) - Scaling Up !!!
+Executing Scale to 4...
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 56.6% | RAM: 64.2% | Replicas: 4
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 42.4% | RAM: 64.6% | Replicas: 4
+Waiting for Cooldown... (25s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 39.5% | RAM: 64.4% | Replicas: 4
+Waiting for Cooldown... (23s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 53.6% | RAM: 65.0% | Replicas: 4
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 42.8% | RAM: 64.9% | Replicas: 4
+Waiting for Cooldown... (19s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 42.3% | RAM: 64.6% | Replicas: 4
+Waiting for Cooldown... (17s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 47.0% | RAM: 65.5% | Replicas: 4
+Waiting for Cooldown... (15s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 28.8% | RAM: 65.6% | Replicas: 4
+Waiting for Cooldown... (13s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 26.1% | RAM: 65.4% | Replicas: 4
+Waiting for Cooldown... (11s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 23.4% | RAM: 65.7% | Replicas: 4
+Waiting for Cooldown... (9s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 24.2% | RAM: 65.5% | Replicas: 4
+Waiting for Cooldown... (7s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 16.9% | RAM: 65.2% | Replicas: 4
+Waiting for Cooldown... (5s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 21.4% | RAM: 65.3% | Replicas: 4
+Waiting for Cooldown... (3s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 17.4% | RAM: 64.9% | Replicas: 4
+Waiting for Cooldown... (1s left)
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 15.5% | RAM: 64.6% | Replicas: 4
+--- Environment Stable - Scaling Down ---
+Executing Scale to 1...
+Stats -> RPS: 9908.0 | CPU: 25.0% | RAM: 64.7% | Replicas: 1
+!!! High Load Detected (RPS/CPU/RAM) - Scaling Up !!!
+Executing Scale to 4...
+Stats -> RPS: 100.5 | CPU: 25.0% | RAM: 65.2% | Replicas: 4
+Waiting for Cooldown... (27s left)
+Stats -> RPS: 6.5 | CPU: 11.6% | RAM: 65.2% | Replicas: 4
+Waiting for Cooldown... (25s left)
+Stats -> RPS: 11.5 | CPU: 20.2% | RAM: 65.4% | Replicas: 4
+Waiting for Cooldown... (23s left)
+Stats -> RPS: 9.5 | CPU: 21.5% | RAM: 65.4% | Replicas: 4
+Waiting for Cooldown... (21s left)
+Stats -> RPS: 7.5 | CPU: 11.4% | RAM: 65.1% | Replicas: 4
+Waiting for Cooldown... (19s left)
+Stats -> RPS: 9.5 | CPU: 12.4% | RAM: 65.2% | Replicas: 4
+Waiting for Cooldown... (17s left)
+Stats -> RPS: 7.5 | CPU: 20.9% | RAM: 65.5% | Replicas: 4
+Waiting for Cooldown... (15s left)
+Stats -> RPS: 10.0 | CPU: 17.0% | RAM: 65.5% | Replicas: 4
+Waiting for Cooldown... (13s left)
+Stats -> RPS: 8.5 | CPU: 9.0% | RAM: 65.3% | Replicas: 4
+Waiting for Cooldown... (11s left)
+Stats -> RPS: 7.0 | CPU: 18.2% | RAM: 65.2% | Replicas: 4
+Waiting for Cooldown... (9s left)
+Stats -> RPS: 9.5 | CPU: 16.1% | RAM: 65.2% | Replicas: 4
+Waiting for Cooldown... (7s left)
+Stats -> RPS: 8.5 | CPU: 8.6% | RAM: 65.0% | Replicas: 4
+Waiting for Cooldown... (5s left)
+Stats -> RPS: 7.0 | CPU: 17.2% | RAM: 65.2% | Replicas: 4
+Waiting for Cooldown... (3s left)
+Stats -> RPS: 9.0 | CPU: 19.3% | RAM: 65.1% | Replicas: 4
+Waiting for Cooldown... (1s left)
+Stats -> RPS: 9.5 | CPU: 10.3% | RAM: 64.8% | Replicas: 4
+--- Environment Stable - Scaling Down ---
+Executing Scale to 1...
+Stats -> RPS: 34.0 | CPU: 24.1% | RAM: 65.0% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.3% | RAM: 64.7% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 16.7% | RAM: 65.6% | Replicas: 1
+Stats -> RPS: 10.5 | CPU: 19.5% | RAM: 65.3% | Replicas: 1
+Stats -> RPS: 12.0 | CPU: 21.6% | RAM: 65.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 18.9% | RAM: 65.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.2% | RAM: 65.3% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 6.8% | RAM: 64.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 8.3% | RAM: 65.1% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.2% | RAM: 65.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 9.9% | RAM: 64.9% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.4% | RAM: 65.3% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 10.9% | RAM: 65.5% | Replicas: 1
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 20.9% | RAM: 65.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 13.8% | RAM: 65.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0cb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.4% | RAM: 65.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbb00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 14.3% | RAM: 65.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb530>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.7% | RAM: 65.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb020>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.9% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0e90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.8% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc14f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.1% | RAM: 65.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0a10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.2% | RAM: 65.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.2% | RAM: 65.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbd10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.8% | RAM: 65.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb020>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.8% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.7% | RAM: 65.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.6% | RAM: 65.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.7% | RAM: 64.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.5% | RAM: 64.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbc50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.7% | RAM: 65.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb620>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.5% | RAM: 64.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc07d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.4% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc08f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.7% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2270>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.2% | RAM: 64.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb7a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.6% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb860>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.1% | RAM: 64.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efaff0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.8% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.2% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc07d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.6% | RAM: 64.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.7% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbda0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.3% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.7% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbbc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.9% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.1% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc23c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.4% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2e10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.7% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.4% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb800>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.1% | RAM: 64.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbcb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.9% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.7% | RAM: 64.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.5% | RAM: 64.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc36e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.6% | RAM: 64.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbbc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.9% | RAM: 64.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb800>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.6% | RAM: 63.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb620>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.2% | RAM: 63.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.1% | RAM: 63.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc10d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.8% | RAM: 63.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce82f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.4% | RAM: 64.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.1% | RAM: 64.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 18.9% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbf20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 13.8% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbe30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 14.9% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 15.6% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce8920>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 15.9% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb170>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 12.0% | RAM: 64.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbe00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.3% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.8% | RAM: 64.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce8290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.3% | RAM: 64.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce93a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.9% | RAM: 64.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce9c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.2% | RAM: 64.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb4a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.0% | RAM: 64.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbb90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.2% | RAM: 63.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbd40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.6% | RAM: 63.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce9670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.1% | RAM: 63.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce9190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 12.1% | RAM: 63.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cea540>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.8% | RAM: 63.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb110>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.0% | RAM: 63.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbb90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.7% | RAM: 63.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbf20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.3% | RAM: 62.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce8470>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.0% | RAM: 62.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce9b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.4% | RAM: 62.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ceae10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.4% | RAM: 62.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb770>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.6% | RAM: 62.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb5f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.3% | RAM: 62.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb170>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.4% | RAM: 62.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce9490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.2% | RAM: 62.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce8380>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.5% | RAM: 62.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ceb6e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.5% | RAM: 62.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efa690>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.7% | RAM: 62.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efaf60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.1% | RAM: 62.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb1d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.1% | RAM: 62.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce8590>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.2% | RAM: 62.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce96d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.9% | RAM: 62.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.9% | RAM: 62.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce95b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.1% | RAM: 62.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce9850>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.6% | RAM: 63.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb8f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.9% | RAM: 63.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efaf90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.4% | RAM: 63.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb1d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.2% | RAM: 63.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc05c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.0% | RAM: 63.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb9b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.9% | RAM: 62.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb8c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.8% | RAM: 63.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.9% | RAM: 62.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce82f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.2% | RAM: 63.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce9310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.8% | RAM: 63.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.6% | RAM: 63.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce96d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.7% | RAM: 63.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce91f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.2% | RAM: 63.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb560>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.5% | RAM: 63.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbdd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.7% | RAM: 63.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc10d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.3% | RAM: 63.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc3b90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.6% | RAM: 63.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb800>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.9% | RAM: 63.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.4% | RAM: 63.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efaf60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.8% | RAM: 63.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce99d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.7% | RAM: 63.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc3320>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.3% | RAM: 63.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc32c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.4% | RAM: 63.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce8260>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 22.7% | RAM: 64.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce84a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 23.6% | RAM: 64.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb2c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 26.6% | RAM: 64.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb590>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 16.0% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc14f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.0% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc29f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.6% | RAM: 65.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb140>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.8% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.6% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce94f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.3% | RAM: 64.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce8560>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.1% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc26c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.8% | RAM: 64.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2300>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.2% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cea990>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.8% | RAM: 64.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce82f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.0% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efa690>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.3% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbd70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.1% | RAM: 64.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc3290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.7% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749d102f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.1% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x75974ac89cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.2% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb0e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.4% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb500>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.9% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc10d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.9% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.7% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc13a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.2% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb6b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.8% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb5c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.2% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb320>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.5% | RAM: 64.3% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2bd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.8% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc11f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.4% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0f20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.7% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x75974a0de7b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.6% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbaa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.2% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efa810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.3% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2210>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.3% | RAM: 64.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.8% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0140>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.6% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efafc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.2% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbe60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.0% | RAM: 64.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbad0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.8% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.4% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.1% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.0% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x75974a9e9d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.7% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efba10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.3% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbad0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.3% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.9% | RAM: 64.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.2% | RAM: 64.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce82f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 10.4% | RAM: 64.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.4% | RAM: 65.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc06b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.9% | RAM: 65.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2a80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 14.5% | RAM: 66.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbdd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.1% | RAM: 66.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb590>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.4% | RAM: 67.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce87a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.0% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.8% | RAM: 67.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb8f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.7% | RAM: 67.4% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbbf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.6% | RAM: 67.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc06b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.2% | RAM: 67.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc11f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 14.2% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce80b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.5% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1d90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.7% | RAM: 67.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc19a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.7% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc0b60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.7% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbfb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.2% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce97c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.5% | RAM: 66.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ceb710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.6% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb6b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.1% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbad0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.8% | RAM: 66.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.2% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2de0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.1% | RAM: 67.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce96a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.8% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ceae40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.5% | RAM: 67.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.8% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc2b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 3.3% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc26f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.6% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb950>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 4.3% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cebb60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.6% | RAM: 67.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cea5d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.5% | RAM: 67.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb8c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 2.8% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb440>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.5% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x75974a1b1c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.3% | RAM: 67.2% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.2% | RAM: 67.0% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ceb290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.3% | RAM: 66.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cebfe0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 8.2% | RAM: 66.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749ce97c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.2% | RAM: 66.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb440>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.9% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb320>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.6% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc26f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 2.0% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cc1c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.2% | RAM: 66.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749d106e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 5.8% | RAM: 66.5% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749e47650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.4% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbf50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 7.6% | RAM: 66.8% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efb410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.4% | RAM: 66.6% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cea030>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.8% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cea3c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 9.2% | RAM: 66.9% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749cea330>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 6.5% | RAM: 66.7% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbef0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 11.9% | RAM: 67.1% | Replicas: 1
+Error fetching RPS: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /nginx_status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x759749efbf50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Stats -> RPS: 0.0 | CPU: 13.6% | RAM: 67.0% | Replicas: 1
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 14.5% | RAM: 67.3% | Replicas: 1
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 10.9% | RAM: 67.4% | Replicas: 1
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 16.0% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: -11071.5 | CPU: 11.5% | RAM: 67.3% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 12.0% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 15.3% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 8.7% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 13.6% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 8.2% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 2.6% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 6.9% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 3.7% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 6.6% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 7.8% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 2.5% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 5.3% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 3.8% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 5.2% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 6.8% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 3.7% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 5.2% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 7.9% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 5.1% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 6.3% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 3.0% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 4.6% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 8.6% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 4.4% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 6.8% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 6.5% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 3.5% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 5.2% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 4.1% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 6.0% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 7.2% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 4.2% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 6.0% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 9.3% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 4.0% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 5.8% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 6.8% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 2.7% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 7.8% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 4.9% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 5.1% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 7.7% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 2.8% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 7.6% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 8.9% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 3.7% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 6.4% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 7.3% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 7.7% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 10.5% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.0 | CPU: 4.2% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 8.7% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 6.5% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 7.5% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 11.7% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 4.5% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 10.7% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 12.4% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 9.0% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 10.6% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 9.0% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 10.2% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 19.4% | RAM: 68.0% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 10.9% | RAM: 67.2% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 11.5% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 14.1% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 8.2% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 7.5% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 7.5% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 6.5% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 6.7% | RAM: 68.0% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 4.9% | RAM: 67.7% | Replicas: 1
+Stats -> RPS: 5.5 | CPU: 8.4% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 12.4% | RAM: 67.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 9.4% | RAM: 67.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.0% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 8.3% | RAM: 68.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.6% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.3% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.0% | RAM: 68.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 6.9% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.0% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 5.3% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.7% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 15.6% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.6% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.8% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.7% | RAM: 68.2% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 9.9% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.8% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.4% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 8.0 | CPU: 8.0% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.5% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.3% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 9.3% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 8.5 | CPU: 8.2% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.5% | RAM: 68.3% | Replicas: 1
+ Network docker_load_balancer_lb_network Creating 
+ Network docker_load_balancer_lb_network Created 
+ Container grafana Creating 
+ Container docker_load_balancer-website1-4 Creating 
+ Container glances Creating 
+ Container docker_load_balancer-website1-1 Creating 
+ Container docker_load_balancer-website2-4 Creating 
+ Container docker_load_balancer-website1-2 Creating 
+ Container docker_load_balancer-website1-3 Creating 
+ Container docker_load_balancer-website2-1 Creating 
+ Container docker_load_balancer-website2-2 Creating 
+ Container docker_load_balancer-website3-4 Creating 
+ Container docker_load_balancer-website2-3 Creating 
+ Container docker_load_balancer-website3-1 Creating 
+ Container docker_load_balancer-website3-2 Creating 
+ Container docker_load_balancer-website3-3 Creating 
+ Container prometheus Creating 
+ Container grafana Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name. 
+Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name.
+Stats -> RPS: 7.0 | CPU: 8.0% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 54.5 | CPU: 14.4% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 101.5 | CPU: 19.4% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 157.0 | CPU: 22.7% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 211.5 | CPU: 21.0% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 276.5 | CPU: 20.8% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 273.0 | CPU: 23.2% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 287.0 | CPU: 19.1% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 268.0 | CPU: 20.7% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 282.0 | CPU: 28.9% | RAM: 69.3% | Replicas: 1
+Stats -> RPS: 253.5 | CPU: 23.1% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 280.0 | CPU: 24.2% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 275.5 | CPU: 21.3% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 291.5 | CPU: 21.9% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 289.0 | CPU: 25.4% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 289.0 | CPU: 23.6% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 288.5 | CPU: 25.3% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 273.5 | CPU: 22.5% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 277.0 | CPU: 21.3% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 258.0 | CPU: 18.6% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 279.5 | CPU: 19.3% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 268.0 | CPU: 26.9% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 245.0 | CPU: 21.7% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 275.5 | CPU: 21.3% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 268.0 | CPU: 25.2% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 267.5 | CPU: 22.9% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 254.0 | CPU: 23.9% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 279.0 | CPU: 22.2% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 262.0 | CPU: 23.1% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 269.0 | CPU: 24.1% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 258.0 | CPU: 20.4% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 279.5 | CPU: 25.3% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 260.0 | CPU: 25.5% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 268.0 | CPU: 24.6% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 263.0 | CPU: 25.5% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 227.5 | CPU: 24.6% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 245.0 | CPU: 27.9% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 263.0 | CPU: 31.8% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 277.5 | CPU: 37.5% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 79.0 | CPU: 30.8% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 8.0 | CPU: 26.0% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 27.8% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 20.6% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 8.0 | CPU: 10.7% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 108.0 | CPU: 16.7% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 578.0 | CPU: 31.6% | RAM: 68.4% | Replicas: 1
+!!! High Load Detected (RPS/CPU/RAM) - Scaling Up !!!
+Executing Scale to 4...
+Stats -> RPS: 1241.5 | CPU: 36.6% | RAM: 69.0% | Replicas: 4
+Stats -> RPS: 854.0 | CPU: 30.9% | RAM: 69.0% | Replicas: 4
+Stats -> RPS: 933.0 | CPU: 34.6% | RAM: 69.2% | Replicas: 4
+Stats -> RPS: 1167.0 | CPU: 36.1% | RAM: 69.3% | Replicas: 4
+Stats -> RPS: 1147.5 | CPU: 38.0% | RAM: 69.2% | Replicas: 4
+Stats -> RPS: 1051.5 | CPU: 39.4% | RAM: 69.4% | Replicas: 4
+Stats -> RPS: 1051.0 | CPU: 41.2% | RAM: 69.7% | Replicas: 4
+Stats -> RPS: 852.5 | CPU: 35.6% | RAM: 69.2% | Replicas: 4
+Stats -> RPS: 1050.0 | CPU: 41.4% | RAM: 69.8% | Replicas: 4
+Stats -> RPS: 1140.5 | CPU: 40.4% | RAM: 69.8% | Replicas: 4
+Stats -> RPS: 1058.0 | CPU: 47.4% | RAM: 69.9% | Replicas: 4
+Stats -> RPS: 999.5 | CPU: 57.9% | RAM: 70.0% | Replicas: 4
+Stats -> RPS: 934.0 | CPU: 50.8% | RAM: 70.2% | Replicas: 4
+Stats -> RPS: 913.0 | CPU: 32.4% | RAM: 70.4% | Replicas: 4
+Stats -> RPS: 1188.0 | CPU: 50.8% | RAM: 70.4% | Replicas: 4
+Stats -> RPS: 792.0 | CPU: 30.2% | RAM: 70.0% | Replicas: 4
+Stats -> RPS: 833.0 | CPU: 28.1% | RAM: 70.1% | Replicas: 4
+Stats -> RPS: 698.0 | CPU: 25.5% | RAM: 70.3% | Replicas: 4
+Stats -> RPS: 769.0 | CPU: 32.8% | RAM: 70.7% | Replicas: 4
+Stats -> RPS: 899.0 | CPU: 35.2% | RAM: 70.7% | Replicas: 4
+Stats -> RPS: 834.5 | CPU: 38.1% | RAM: 70.9% | Replicas: 4
+Stats -> RPS: 938.5 | CPU: 34.0% | RAM: 71.2% | Replicas: 4
+Stats -> RPS: 959.5 | CPU: 32.2% | RAM: 71.4% | Replicas: 4
+Stats -> RPS: 1691.5 | CPU: 31.2% | RAM: 71.7% | Replicas: 4
+Stats -> RPS: 1556.5 | CPU: 29.6% | RAM: 71.6% | Replicas: 4
+Stats -> RPS: 1307.5 | CPU: 28.7% | RAM: 71.9% | Replicas: 4
+Stats -> RPS: 1656.0 | CPU: 26.7% | RAM: 71.8% | Replicas: 4
+Stats -> RPS: 1254.5 | CPU: 25.3% | RAM: 71.9% | Replicas: 4
+Stats -> RPS: 1414.0 | CPU: 29.2% | RAM: 72.0% | Replicas: 4
+Stats -> RPS: 1590.5 | CPU: 29.4% | RAM: 72.0% | Replicas: 4
+Stats -> RPS: 1603.5 | CPU: 31.8% | RAM: 72.1% | Replicas: 4
+Stats -> RPS: 1763.0 | CPU: 24.4% | RAM: 72.2% | Replicas: 4
+Stats -> RPS: 1350.0 | CPU: 27.1% | RAM: 72.1% | Replicas: 4
+Stats -> RPS: 1014.5 | CPU: 22.9% | RAM: 72.3% | Replicas: 4
+Stats -> RPS: 2089.0 | CPU: 30.9% | RAM: 72.3% | Replicas: 4
+Stats -> RPS: 795.5 | CPU: 25.9% | RAM: 72.3% | Replicas: 4
+Stats -> RPS: 1841.5 | CPU: 26.4% | RAM: 72.2% | Replicas: 4
+Stats -> RPS: 1018.5 | CPU: 25.0% | RAM: 72.5% | Replicas: 4
+Stats -> RPS: 1883.0 | CPU: 28.9% | RAM: 72.2% | Replicas: 4
+Stats -> RPS: 1506.5 | CPU: 26.7% | RAM: 72.1% | Replicas: 4
+Stats -> RPS: 1332.0 | CPU: 26.4% | RAM: 72.1% | Replicas: 4
+Stats -> RPS: 1456.0 | CPU: 28.8% | RAM: 72.2% | Replicas: 4
+Stats -> RPS: 1600.5 | CPU: 31.9% | RAM: 71.6% | Replicas: 4
+Stats -> RPS: 1294.0 | CPU: 39.4% | RAM: 72.3% | Replicas: 4
+Stats -> RPS: 1687.0 | CPU: 41.9% | RAM: 71.9% | Replicas: 4
+Stats -> RPS: 1264.5 | CPU: 42.0% | RAM: 72.6% | Replicas: 4
+Stats -> RPS: 1343.5 | CPU: 40.9% | RAM: 72.6% | Replicas: 4
+Stats -> RPS: 1556.0 | CPU: 44.7% | RAM: 72.2% | Replicas: 4
+Stats -> RPS: 1140.0 | CPU: 40.2% | RAM: 72.7% | Replicas: 4
+Stats -> RPS: 1249.0 | CPU: 45.0% | RAM: 73.0% | Replicas: 4
+Stats -> RPS: 1397.0 | CPU: 43.3% | RAM: 72.8% | Replicas: 4
+Stats -> RPS: 1326.0 | CPU: 43.0% | RAM: 73.5% | Replicas: 4
+Stats -> RPS: 1306.5 | CPU: 40.9% | RAM: 73.5% | Replicas: 4
+Stats -> RPS: 1058.5 | CPU: 38.6% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 1441.5 | CPU: 52.5% | RAM: 73.5% | Replicas: 4
+Stats -> RPS: 1018.5 | CPU: 39.6% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 997.5 | CPU: 41.4% | RAM: 73.7% | Replicas: 4
+Stats -> RPS: 1146.0 | CPU: 56.0% | RAM: 73.5% | Replicas: 4
+Error fetching RPS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Stats -> RPS: 0.0 | CPU: 52.4% | RAM: 73.2% | Replicas: 4
+Stats -> RPS: 1366.5 | CPU: 40.9% | RAM: 73.8% | Replicas: 4
+Stats -> RPS: 884.5 | CPU: 50.4% | RAM: 73.8% | Replicas: 4
+Stats -> RPS: 927.0 | CPU: 40.2% | RAM: 73.6% | Replicas: 4
+Stats -> RPS: 955.5 | CPU: 40.4% | RAM: 73.6% | Replicas: 4
+Stats -> RPS: 1453.5 | CPU: 36.5% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 1461.5 | CPU: 35.0% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 1478.5 | CPU: 34.2% | RAM: 73.2% | Replicas: 4
+Stats -> RPS: 1310.5 | CPU: 34.1% | RAM: 73.0% | Replicas: 4
+Stats -> RPS: 1096.5 | CPU: 34.0% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 1284.5 | CPU: 34.9% | RAM: 73.2% | Replicas: 4
+Stats -> RPS: 1690.5 | CPU: 34.2% | RAM: 73.1% | Replicas: 4
+Stats -> RPS: 773.5 | CPU: 32.6% | RAM: 73.5% | Replicas: 4
+Stats -> RPS: 1600.5 | CPU: 35.4% | RAM: 73.6% | Replicas: 4
+Stats -> RPS: 1123.5 | CPU: 33.5% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 1461.0 | CPU: 39.0% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 1202.0 | CPU: 37.5% | RAM: 73.0% | Replicas: 4
+Stats -> RPS: 1678.0 | CPU: 45.4% | RAM: 73.5% | Replicas: 4
+Stats -> RPS: 615.5 | CPU: 39.9% | RAM: 73.5% | Replicas: 4
+Stats -> RPS: 2094.5 | CPU: 44.0% | RAM: 73.6% | Replicas: 4
+Stats -> RPS: 436.5 | CPU: 37.9% | RAM: 73.6% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 31.3% | RAM: 73.2% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 9.6% | RAM: 72.4% | Replicas: 4
+Stats -> RPS: 6.5 | CPU: 12.5% | RAM: 72.6% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 12.2% | RAM: 72.6% | Replicas: 4
+Stats -> RPS: 6.5 | CPU: 9.0% | RAM: 72.6% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 14.4% | RAM: 72.9% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 8.5% | RAM: 72.7% | Replicas: 4
+ Container prometheus Creating 
+ Container docker_load_balancer-website2-4 Stopping 
+ Container docker_load_balancer-website1-3 Stopping 
+ Container docker_load_balancer-website2-3 Stopping 
+ Container docker_load_balancer-website2-2 Stopping 
+ Container docker_load_balancer-website1-4 Stopping 
+ Container docker_load_balancer-website1-2 Stopping 
+ Container grafana Creating 
+ Container docker_load_balancer-website3-4 Stopping 
+ Container docker_load_balancer-website3-2 Stopping 
+ Container docker_load_balancer-website3-3 Stopping 
+ Container grafana Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name. 
+ Container docker_load_balancer-website3-4 Error Error while Stopping
+ Container docker_load_balancer-website2-4 Error Error while Stopping
+ Container docker_load_balancer-website3-3 Error Error while Stopping
+ Container docker_load_balancer-website1-4 Error Error while Stopping
+ Container docker_load_balancer-website2-3 Error Error while Stopping
+ Container docker_load_balancer-website3-2 Error Error while Stopping
+ Container docker_load_balancer-website1-3 Error Error while Stopping
+ Container docker_load_balancer-website1-2 Error Error while Stopping
+ Container docker_load_balancer-website2-2 Error Error while Stopping
+Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name.
+Stats -> RPS: 6.5 | CPU: 12.6% | RAM: 73.0% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 13.7% | RAM: 73.0% | Replicas: 4
+Stats -> RPS: 9.0 | CPU: 12.2% | RAM: 72.8% | Replicas: 4
+Stats -> RPS: 6.5 | CPU: 13.2% | RAM: 73.2% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 14.1% | RAM: 73.1% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 13.5% | RAM: 72.9% | Replicas: 4
+Stats -> RPS: 7.0 | CPU: 13.2% | RAM: 73.3% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 12.3% | RAM: 72.7% | Replicas: 4
+Stats -> RPS: 6.5 | CPU: 10.5% | RAM: 72.8% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 12.2% | RAM: 72.7% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 9.2% | RAM: 72.4% | Replicas: 4
+Stats -> RPS: 7.0 | CPU: 11.9% | RAM: 72.8% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 13.1% | RAM: 72.8% | Replicas: 4
+Stats -> RPS: 9.0 | CPU: 12.5% | RAM: 72.5% | Replicas: 4
+Stats -> RPS: 7.0 | CPU: 13.1% | RAM: 72.9% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 10.5% | RAM: 73.1% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 12.2% | RAM: 72.7% | Replicas: 4
+Stats -> RPS: 6.5 | CPU: 10.4% | RAM: 72.8% | Replicas: 4
+Stats -> RPS: 9.5 | CPU: 14.2% | RAM: 72.9% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 13.5% | RAM: 70.2% | Replicas: 4
+Stats -> RPS: 6.5 | CPU: 10.7% | RAM: 70.2% | Replicas: 4
+Stats -> RPS: 10.0 | CPU: 11.4% | RAM: 69.9% | Replicas: 4
+--- Environment Stable - Scaling Down ---
+Executing Scale to 1...
+Stats -> RPS: 9.5 | CPU: 13.7% | RAM: 70.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.0% | RAM: 70.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.9% | RAM: 70.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 13.3% | RAM: 70.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.2% | RAM: 70.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.5% | RAM: 70.1% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.7% | RAM: 70.4% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.2% | RAM: 69.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.1% | RAM: 69.8% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 9.5% | RAM: 69.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.7% | RAM: 69.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.0% | RAM: 69.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 14.4% | RAM: 70.0% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.1% | RAM: 69.3% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.6% | RAM: 69.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.8% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 9.5% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.7% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.4% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 8.1% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 8.7% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.0% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.6% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.2% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.3% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.1% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.1% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.9% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.1% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 13.9% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.1% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.8% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.5% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.9% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.3% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.7% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.4% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 14.7% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.4% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.3% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.4% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.5% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 10.8% | RAM: 69.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.3% | RAM: 69.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 8.8% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.6% | RAM: 69.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.4% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.5% | RAM: 69.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 14.5% | RAM: 69.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.9% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 13.8% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 15.0% | RAM: 69.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.6% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 13.2% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 17.1% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.8% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 15.8% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.8% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 16.3% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 13.8% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 16.4% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 24.2% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 24.3% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 22.6% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 26.9% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 19.9% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.8% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.0% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.1% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 9.0% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.3% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.9% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.5% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.3% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.1% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.1% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.3% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.2% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.0% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.9% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 8.7% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.5% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.3% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.3% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.7% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.1% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.4% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 9.0 | CPU: 10.8% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.2% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.2% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.5% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 8.6% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.7% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.9% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.1% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.6% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.1% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.9% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.2% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.6% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 8.7% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.5% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.1% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.3% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.7% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.8% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.6% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.8% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 13.0% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.5% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.0% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.7% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 15.3% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.6% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.9% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.5% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.9% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.4% | RAM: 68.6% | Replicas: 1
+ Container grafana Creating 
+ Container prometheus Creating 
+ Container nginx-lb Creating 
+ Container grafana Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name. 
+Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name.
+Stats -> RPS: 9.5 | CPU: 10.5% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.4% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.7% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.2% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.8% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.2% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 8.7% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.2% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 14.6% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.9% | RAM: 68.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 13.3% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 9.7% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.1% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.0% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.9% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 11.7% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 13.3% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.8% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.6% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.2% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.2% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.3% | RAM: 68.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.2% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.1% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.6% | RAM: 68.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.8% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 13.5% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 15.6% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 14.5% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.9% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.3% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.5% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.7% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 13.2% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.0% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.1% | RAM: 69.3% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.3% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 16.8% | RAM: 69.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 19.0% | RAM: 69.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.3% | RAM: 69.1% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 14.3% | RAM: 69.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 17.8% | RAM: 69.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 17.1% | RAM: 69.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 21.4% | RAM: 69.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 21.6% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 18.6% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 22.5% | RAM: 69.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 20.9% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 25.9% | RAM: 69.0% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 26.3% | RAM: 68.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 26.3% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 25.4% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 26.7% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 25.6% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 14.1% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.2% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 8.8% | RAM: 68.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.2% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.4% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.1% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 15.5% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 13.4% | RAM: 68.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.4% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.3% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.2% | RAM: 68.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.4% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.6% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.1% | RAM: 68.1% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.9% | RAM: 68.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.9% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.1% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 14.9% | RAM: 68.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.6% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 12.2% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.4% | RAM: 68.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 17.5% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 20.9% | RAM: 68.4% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 14.6% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.9% | RAM: 67.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.1% | RAM: 68.1% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.4% | RAM: 67.3% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 9.9% | RAM: 67.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.1% | RAM: 67.3% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.2% | RAM: 67.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.9% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.8% | RAM: 67.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.0% | RAM: 67.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.8% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 14.2% | RAM: 67.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.6% | RAM: 67.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.9% | RAM: 67.3% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.9% | RAM: 67.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.4% | RAM: 66.8% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.7% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.4% | RAM: 67.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.0% | RAM: 67.3% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.6% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.9% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.4% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 20.0 | CPU: 14.3% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 63.5 | CPU: 10.5% | RAM: 67.1% | Replicas: 1
+Stats -> RPS: 121.0 | CPU: 15.2% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 175.0 | CPU: 20.3% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 213.5 | CPU: 17.5% | RAM: 67.1% | Replicas: 1
+Stats -> RPS: 264.5 | CPU: 20.2% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 257.0 | CPU: 20.8% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 259.0 | CPU: 19.7% | RAM: 67.2% | Replicas: 1
+Stats -> RPS: 281.0 | CPU: 19.9% | RAM: 67.5% | Replicas: 1
+Stats -> RPS: 458.0 | CPU: 20.8% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 416.5 | CPU: 21.2% | RAM: 67.4% | Replicas: 1
+Stats -> RPS: 524.0 | CPU: 26.4% | RAM: 67.7% | Replicas: 1
+!!! High Load Detected (RPS/CPU/RAM) - Scaling Up !!!
+Executing Scale to 4...
+Stats -> RPS: 590.5 | CPU: 25.5% | RAM: 67.7% | Replicas: 4
+Stats -> RPS: 564.0 | CPU: 31.6% | RAM: 67.9% | Replicas: 4
+Stats -> RPS: 651.0 | CPU: 29.6% | RAM: 67.8% | Replicas: 4
+Stats -> RPS: 690.0 | CPU: 26.0% | RAM: 67.6% | Replicas: 4
+Stats -> RPS: 706.0 | CPU: 27.6% | RAM: 67.7% | Replicas: 4
+Stats -> RPS: 821.0 | CPU: 29.3% | RAM: 67.7% | Replicas: 4
+Stats -> RPS: 917.0 | CPU: 32.0% | RAM: 67.5% | Replicas: 4
+Stats -> RPS: 670.0 | CPU: 33.0% | RAM: 67.5% | Replicas: 4
+Stats -> RPS: 767.5 | CPU: 28.0% | RAM: 67.4% | Replicas: 4
+Stats -> RPS: 765.5 | CPU: 28.9% | RAM: 67.1% | Replicas: 4
+Stats -> RPS: 1016.5 | CPU: 34.8% | RAM: 67.1% | Replicas: 4
+Stats -> RPS: 633.5 | CPU: 25.4% | RAM: 66.2% | Replicas: 4
+Stats -> RPS: 559.0 | CPU: 27.0% | RAM: 66.6% | Replicas: 4
+Stats -> RPS: 753.5 | CPU: 32.6% | RAM: 66.1% | Replicas: 4
+Stats -> RPS: 1043.0 | CPU: 35.7% | RAM: 66.0% | Replicas: 4
+Stats -> RPS: 957.5 | CPU: 39.1% | RAM: 66.2% | Replicas: 4
+Stats -> RPS: 1074.0 | CPU: 36.7% | RAM: 66.0% | Replicas: 4
+Stats -> RPS: 1213.0 | CPU: 38.9% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 1281.0 | CPU: 41.4% | RAM: 65.9% | Replicas: 4
+Stats -> RPS: 1186.0 | CPU: 42.6% | RAM: 66.1% | Replicas: 4
+Stats -> RPS: 832.5 | CPU: 34.3% | RAM: 66.2% | Replicas: 4
+Stats -> RPS: 667.0 | CPU: 44.5% | RAM: 66.7% | Replicas: 4
+Stats -> RPS: 803.5 | CPU: 37.0% | RAM: 66.6% | Replicas: 4
+Stats -> RPS: 746.0 | CPU: 46.4% | RAM: 66.9% | Replicas: 4
+Stats -> RPS: 776.0 | CPU: 35.6% | RAM: 66.2% | Replicas: 4
+Stats -> RPS: 936.0 | CPU: 32.2% | RAM: 65.2% | Replicas: 4
+Stats -> RPS: 809.0 | CPU: 32.6% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 701.5 | CPU: 29.9% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 552.0 | CPU: 25.5% | RAM: 65.4% | Replicas: 4
+Stats -> RPS: 569.0 | CPU: 31.4% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 763.5 | CPU: 33.1% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 894.5 | CPU: 32.5% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 890.5 | CPU: 36.8% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 1124.0 | CPU: 41.6% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 1123.5 | CPU: 36.0% | RAM: 65.4% | Replicas: 4
+Stats -> RPS: 1127.5 | CPU: 38.6% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 1106.5 | CPU: 35.4% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 1047.0 | CPU: 39.3% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 999.5 | CPU: 37.8% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 937.5 | CPU: 36.4% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 1064.5 | CPU: 36.8% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 1060.0 | CPU: 38.2% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 1018.0 | CPU: 38.9% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 966.0 | CPU: 36.8% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 804.5 | CPU: 29.0% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 427.0 | CPU: 30.7% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 369.0 | CPU: 32.7% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 676.5 | CPU: 36.6% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 677.5 | CPU: 37.7% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 737.0 | CPU: 37.0% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 810.0 | CPU: 38.2% | RAM: 65.3% | Replicas: 4
+Stats -> RPS: 919.0 | CPU: 41.1% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 783.0 | CPU: 41.0% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 843.0 | CPU: 42.7% | RAM: 65.4% | Replicas: 4
+Stats -> RPS: 865.5 | CPU: 46.4% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 939.0 | CPU: 48.6% | RAM: 65.4% | Replicas: 4
+Stats -> RPS: 960.0 | CPU: 49.3% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 915.0 | CPU: 54.3% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 891.5 | CPU: 51.5% | RAM: 65.3% | Replicas: 4
+Stats -> RPS: 871.0 | CPU: 47.2% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 746.5 | CPU: 38.4% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 1007.0 | CPU: 33.3% | RAM: 65.4% | Replicas: 4
+Stats -> RPS: 624.0 | CPU: 28.0% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 411.0 | CPU: 25.3% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 365.5 | CPU: 21.1% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 575.0 | CPU: 29.4% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 745.5 | CPU: 30.7% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 686.5 | CPU: 44.8% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 882.5 | CPU: 35.9% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 1092.0 | CPU: 37.7% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 1187.5 | CPU: 35.7% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 1233.5 | CPU: 39.1% | RAM: 65.9% | Replicas: 4
+Stats -> RPS: 988.5 | CPU: 34.0% | RAM: 65.9% | Replicas: 4
+Stats -> RPS: 733.0 | CPU: 42.5% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 716.5 | CPU: 30.5% | RAM: 65.9% | Replicas: 4
+Stats -> RPS: 820.5 | CPU: 42.7% | RAM: 65.2% | Replicas: 4
+Stats -> RPS: 615.0 | CPU: 29.9% | RAM: 65.4% | Replicas: 4
+Stats -> RPS: 516.0 | CPU: 27.1% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 495.0 | CPU: 28.7% | RAM: 65.3% | Replicas: 4
+Stats -> RPS: 319.0 | CPU: 22.5% | RAM: 65.2% | Replicas: 4
+Stats -> RPS: 297.5 | CPU: 19.8% | RAM: 65.7% | Replicas: 4
+Stats -> RPS: 649.0 | CPU: 30.3% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 828.5 | CPU: 39.4% | RAM: 65.6% | Replicas: 4
+Stats -> RPS: 1081.0 | CPU: 35.8% | RAM: 65.3% | Replicas: 4
+Stats -> RPS: 1042.0 | CPU: 35.7% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 899.5 | CPU: 36.9% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 1098.5 | CPU: 34.7% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 1068.0 | CPU: 37.1% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 787.5 | CPU: 33.2% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 849.0 | CPU: 30.0% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 903.0 | CPU: 33.8% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 1035.0 | CPU: 35.4% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 1021.5 | CPU: 35.7% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 985.0 | CPU: 36.4% | RAM: 65.2% | Replicas: 4
+Stats -> RPS: 929.5 | CPU: 30.9% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 929.0 | CPU: 34.4% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 603.5 | CPU: 28.7% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 287.5 | CPU: 18.8% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 336.0 | CPU: 28.0% | RAM: 65.5% | Replicas: 4
+Stats -> RPS: 705.0 | CPU: 33.8% | RAM: 65.4% | Replicas: 4
+Stats -> RPS: 939.5 | CPU: 38.4% | RAM: 65.3% | Replicas: 4
+Stats -> RPS: 753.0 | CPU: 31.5% | RAM: 65.2% | Replicas: 4
+Stats -> RPS: 808.0 | CPU: 33.8% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 768.5 | CPU: 32.0% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 643.5 | CPU: 28.4% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 743.0 | CPU: 31.2% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 814.0 | CPU: 32.2% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 801.5 | CPU: 31.8% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 696.5 | CPU: 28.6% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 840.5 | CPU: 31.5% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 807.5 | CPU: 33.3% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 975.0 | CPU: 34.2% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 885.5 | CPU: 30.8% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 800.0 | CPU: 34.3% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 643.5 | CPU: 27.6% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 827.5 | CPU: 33.2% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 783.0 | CPU: 31.2% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 934.5 | CPU: 33.3% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 1056.0 | CPU: 36.9% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 966.5 | CPU: 35.0% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 895.0 | CPU: 32.8% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 977.5 | CPU: 36.2% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 954.5 | CPU: 40.5% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 989.0 | CPU: 35.1% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 1042.5 | CPU: 37.4% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 1070.5 | CPU: 35.2% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 1119.0 | CPU: 37.6% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 1110.5 | CPU: 38.9% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 1023.5 | CPU: 37.6% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 1048.0 | CPU: 36.7% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 899.0 | CPU: 32.9% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 562.0 | CPU: 26.0% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 637.5 | CPU: 31.6% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 840.0 | CPU: 39.3% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 822.5 | CPU: 31.9% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 611.0 | CPU: 27.5% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 765.0 | CPU: 34.1% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 979.5 | CPU: 38.0% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 949.5 | CPU: 33.9% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 839.5 | CPU: 32.4% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 880.5 | CPU: 32.9% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 632.0 | CPU: 28.3% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 796.5 | CPU: 33.7% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 892.0 | CPU: 35.0% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 1084.0 | CPU: 38.4% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 1022.0 | CPU: 36.4% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 793.0 | CPU: 31.3% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 674.0 | CPU: 31.3% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 264.5 | CPU: 21.0% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 571.5 | CPU: 27.6% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 663.5 | CPU: 32.5% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 670.5 | CPU: 30.3% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 762.0 | CPU: 32.6% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 727.0 | CPU: 33.5% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 830.0 | CPU: 33.7% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 913.5 | CPU: 35.0% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 926.5 | CPU: 37.0% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 903.0 | CPU: 35.1% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 842.5 | CPU: 30.9% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 826.5 | CPU: 39.3% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 825.0 | CPU: 38.2% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 869.5 | CPU: 38.5% | RAM: 65.2% | Replicas: 4
+Stats -> RPS: 699.0 | CPU: 36.8% | RAM: 65.4% | Replicas: 4
+ Container docker_load_balancer-website3-4 Stopping 
+ Container docker_load_balancer-website1-4 Stopping 
+ Container docker_load_balancer-website1-2 Stopping 
+ Container grafana Creating 
+ Container docker_load_balancer-website3-2 Stopping 
+ Container docker_load_balancer-website1-3 Stopping 
+ Container prometheus Creating 
+ Container docker_load_balancer-website3-3 Stopping 
+ Container docker_load_balancer-website2-4 Stopping 
+ Container docker_load_balancer-website2-2 Stopping 
+ Container docker_load_balancer-website2-3 Stopping 
+ Container docker_load_balancer-website1-4 Stopped 
+ Container docker_load_balancer-website1-4 Removing 
+ Container docker_load_balancer-website2-3 Stopped 
+ Container docker_load_balancer-website2-3 Removing 
+ Container docker_load_balancer-website3-4 Stopped 
+ Container docker_load_balancer-website3-4 Removing 
+ Container docker_load_balancer-website2-2 Stopped 
+ Container docker_load_balancer-website2-2 Removing 
+ Container docker_load_balancer-website1-2 Stopped 
+ Container docker_load_balancer-website1-2 Removing 
+ Container docker_load_balancer-website1-3 Stopped 
+ Container docker_load_balancer-website1-3 Removing 
+ Container docker_load_balancer-website2-4 Stopped 
+ Container docker_load_balancer-website2-4 Removing 
+ Container docker_load_balancer-website3-2 Stopped 
+ Container docker_load_balancer-website3-2 Removing 
+ Container docker_load_balancer-website3-3 Stopped 
+ Container docker_load_balancer-website3-3 Removing 
+ Container grafana Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name. 
+ Container docker_load_balancer-website2-4 Removed 
+ Container docker_load_balancer-website1-3 Removed 
+ Container docker_load_balancer-website2-2 Removed 
+ Container docker_load_balancer-website1-2 Removed 
+ Container docker_load_balancer-website2-3 Removed 
+ Container docker_load_balancer-website1-4 Removed 
+ Container docker_load_balancer-website3-3 Removed 
+ Container docker_load_balancer-website3-4 Removed 
+ Container docker_load_balancer-website3-2 Removed 
+Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name.
+ Container docker_load_balancer-website1-4 Restart 
+ Container grafana Creating 
+ Container docker_load_balancer-website1-3 Restart 
+ Container docker_load_balancer-website2-4 Restart 
+ Container docker_load_balancer-website2-2 Restart 
+ Container docker_load_balancer-website2-3 Restart 
+ Container docker_load_balancer-website1-2 Restart 
+ Container docker_load_balancer-website3-4 Restart 
+ Container docker_load_balancer-website3-3 Restart 
+ Container docker_load_balancer-website3-2 Restart 
+ Container prometheus Creating 
+ Container grafana Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name. 
+Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name.
+ Container prometheus Creating 
+ Container grafana Creating 
+ Container nginx-exporter Creating 
+ Container grafana Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name. 
+ Container prometheus Error response from daemon: Conflict. The container name "/prometheus" is already in use by container "c4e3247ab0c87418768b4e85036e2e914dbd76c646aa84d24b9634c50fc0f593". You have to remove (or rename) that container to be able to reuse that name. 
+Error response from daemon: Conflict. The container name "/grafana" is already in use by container "513334dc8ee098b0411702602cd5d4b7e8ede081c06fe95f01d3642e5def572c". You have to remove (or rename) that container to be able to reuse that name.
+Stats -> RPS: 808.0 | CPU: 35.5% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 695.0 | CPU: 31.9% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 460.5 | CPU: 24.4% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 287.5 | CPU: 23.1% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 363.5 | CPU: 30.7% | RAM: 64.9% | Replicas: 4
+Stats -> RPS: 656.0 | CPU: 34.9% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 539.5 | CPU: 27.6% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 369.5 | CPU: 44.3% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 684.5 | CPU: 38.0% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 926.0 | CPU: 38.1% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 1044.5 | CPU: 37.9% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 1065.0 | CPU: 43.1% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 807.5 | CPU: 36.7% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 649.5 | CPU: 50.5% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 750.5 | CPU: 43.4% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 883.0 | CPU: 57.2% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 741.5 | CPU: 40.2% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 572.5 | CPU: 40.5% | RAM: 64.0% | Replicas: 4
+Stats -> RPS: 597.5 | CPU: 43.7% | RAM: 64.2% | Replicas: 4
+Stats -> RPS: 617.0 | CPU: 45.6% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 430.5 | CPU: 36.5% | RAM: 64.1% | Replicas: 4
+Stats -> RPS: 294.5 | CPU: 37.3% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 668.0 | CPU: 46.1% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 566.0 | CPU: 28.6% | RAM: 64.3% | Replicas: 4
+Stats -> RPS: 508.0 | CPU: 40.9% | RAM: 64.1% | Replicas: 4
+Stats -> RPS: 746.0 | CPU: 32.0% | RAM: 64.3% | Replicas: 4
+Stats -> RPS: 871.5 | CPU: 30.0% | RAM: 64.2% | Replicas: 4
+Stats -> RPS: 1042.5 | CPU: 35.9% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 1007.0 | CPU: 33.6% | RAM: 64.5% | Replicas: 4
+Stats -> RPS: 805.5 | CPU: 31.1% | RAM: 64.3% | Replicas: 4
+Stats -> RPS: 921.5 | CPU: 33.4% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 1125.0 | CPU: 37.2% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 979.5 | CPU: 34.9% | RAM: 64.3% | Replicas: 4
+Stats -> RPS: 709.0 | CPU: 30.8% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 595.5 | CPU: 38.5% | RAM: 64.8% | Replicas: 4
+Stats -> RPS: 800.5 | CPU: 41.9% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 744.0 | CPU: 35.3% | RAM: 64.0% | Replicas: 4
+Stats -> RPS: 459.5 | CPU: 27.7% | RAM: 65.8% | Replicas: 4
+Stats -> RPS: 339.5 | CPU: 24.8% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 277.5 | CPU: 23.9% | RAM: 65.1% | Replicas: 4
+Stats -> RPS: 100.0 | CPU: 12.8% | RAM: 65.5% | Replicas: 4
+--- Environment Stable - Scaling Down ---
+Executing Scale to 1...
+Stats -> RPS: 103.5 | CPU: 14.2% | RAM: 64.1% | Replicas: 1
+Stats -> RPS: 345.0 | CPU: 26.6% | RAM: 64.8% | Replicas: 1
+Stats -> RPS: 512.0 | CPU: 23.0% | RAM: 64.6% | Replicas: 1
+!!! High Load Detected (RPS/CPU/RAM) - Scaling Up !!!
+Executing Scale to 4...
+Stats -> RPS: 278.5 | CPU: 18.7% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 276.5 | CPU: 28.6% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 528.5 | CPU: 49.9% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 776.5 | CPU: 35.6% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 932.5 | CPU: 31.9% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 956.5 | CPU: 37.4% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 927.0 | CPU: 34.8% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 752.0 | CPU: 37.9% | RAM: 64.7% | Replicas: 4
+Stats -> RPS: 786.5 | CPU: 35.2% | RAM: 65.0% | Replicas: 4
+Stats -> RPS: 522.5 | CPU: 36.8% | RAM: 64.6% | Replicas: 4
+Stats -> RPS: 286.0 | CPU: 21.7% | RAM: 64.4% | Replicas: 4
+Stats -> RPS: 461.5 | CPU: 30.2% | RAM: 64.2% | Replicas: 4
+Stats -> RPS: 358.5 | CPU: 23.9% | RAM: 64.0% | Replicas: 4
+Stats -> RPS: 305.0 | CPU: 28.5% | RAM: 63.9% | Replicas: 4
+Stats -> RPS: 60.5 | CPU: 19.5% | RAM: 63.8% | Replicas: 4
+--- Environment Stable - Scaling Down ---
+Executing Scale to 1...
+Stats -> RPS: 9.5 | CPU: 18.8% | RAM: 63.3% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 14.5% | RAM: 63.6% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 44.4% | RAM: 62.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 29.9% | RAM: 62.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 14.3% | RAM: 62.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.4% | RAM: 62.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.7% | RAM: 62.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 9.1% | RAM: 62.4% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.5% | RAM: 62.4% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 7.8% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.1% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.9% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.3% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 10.6% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.7% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 7.4% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 8.7% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.4% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.9% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 9.7% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.1% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.3% | RAM: 62.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.0% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.3% | RAM: 62.0% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.1% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.2% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 9.3% | RAM: 62.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.6% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 12.6% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 8.8% | RAM: 62.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 11.1% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.8% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.7% | RAM: 61.9% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.9% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 13.6% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.7% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 20.3% | RAM: 62.3% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 20.5% | RAM: 61.9% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.1% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.4% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.1% | RAM: 61.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.1% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.1% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.5% | RAM: 61.9% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 9.8% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.1% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 9.9% | RAM: 62.0% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.5% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 10.0% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 8.4% | RAM: 62.1% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.7% | RAM: 62.2% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.6% | RAM: 61.9% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.7% | RAM: 62.6% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.6% | RAM: 62.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.4% | RAM: 62.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 12.8% | RAM: 63.0% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.0% | RAM: 62.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.5% | RAM: 62.6% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 10.1% | RAM: 62.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 10.8% | RAM: 62.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.6% | RAM: 62.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 11.5% | RAM: 62.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.6% | RAM: 62.6% | Replicas: 1
+Stats -> RPS: 6.0 | CPU: 10.9% | RAM: 62.8% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 11.4% | RAM: 62.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 9.7% | RAM: 62.6% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 10.8% | RAM: 62.9% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 11.9% | RAM: 62.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 8.8% | RAM: 62.5% | Replicas: 1
+Stats -> RPS: 7.0 | CPU: 12.3% | RAM: 62.8% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 13.2% | RAM: 62.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 12.3% | RAM: 62.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 20.9% | RAM: 62.7% | Replicas: 1
+Stats -> RPS: 9.5 | CPU: 22.8% | RAM: 62.7% | Replicas: 1
+Stats -> RPS: 10.0 | CPU: 18.6% | RAM: 62.5% | Replicas: 1
+Stats -> RPS: 6.5 | CPU: 9.3% | RAM: 62.8% | Replicas: 1
